@@ -3,191 +3,221 @@
 
 # 👋 Hi, I'm Pankaj Kumar
 
-### Full Stack Developer | MERN Stack Developer | Software Engineer
+### Full Stack Developer | Application Developer | DevOps Engineer
 
-**Building scalable web applications, intelligent business solutions & seamless digital experiences.**
+**Building Scalable Applications • Distributed Systems • Cloud & Deployment Solutions**
 
 <br/>
 
 <a href="https://github.com/Pankajkumar12345678">
-  <img src="https://img.shields.io/badge/GitHub-Pankajkumar12345678-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/pankaj-kumar-909287289/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pankajkumarjietcs48132@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pankajkumar12345678&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Pankajkumar12345678&style=for-the-badge&color=6366f1" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-I'm a Full Stack Developer passionate about designing, developing, and deploying modern web applications that solve real-world problems.
+Full Stack Developer and Application Developer specializing in building scalable, secure, and high-performance web applications, enterprise software, and distributed systems.
 
-My primary expertise lies in the **MERN Stack**, with hands-on experience building end-to-end applications, RESTful APIs, database architectures, authentication systems, and business management platforms.
+Experienced in end-to-end application development, backend engineering, microservices architecture, API integration, database design, infrastructure configuration, and production deployment.
 
-I enjoy transforming complex requirements into clean, maintainable, scalable software solutions.
+Focused on engineering reliable software solutions using modern development technologies, messaging systems, monitoring tools, and DevOps practices.
 
-- 💻 Specialized in Full Stack Web Development.
-- ⚙️ Experienced in developing RESTful APIs and backend architectures.
-- 🏗️ Interested in ERP, CRM, SaaS and enterprise application development.
-- 🗄️ Experienced with MongoDB, MySQL and database management.
-- ☁️ Familiar with VPS hosting, Linux, Nginx, PM2 and deployment workflows.
-- 🔐 Focused on authentication, authorization and role-based access control.
-- 🤝 Open to collaborating on innovative software projects.
-- 📚 Always learning new technologies and improving engineering practices.
+- Full Stack & Enterprise Application Development
+- Backend Engineering & RESTful API Development
+- Microservices Architecture & API Gateway
+- Event-Driven Architecture & Message Queuing
+- Database Design & Management
+- Application Deployment & Infrastructure Management
+- Production Monitoring & Performance Optimization
 
 ---
 
-## 💼 Technical Expertise
+## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💻 Application & Frontend Development
 
-### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+</p>
 
 - React.js
 - JavaScript (ES6+)
 - HTML5 & CSS3
 - Tailwind CSS
-- Bootstrap 5
-- React Router
-- Framer Motion
-- Responsive Web Design
+- Bootstrap
+- Responsive Web Application Development
+- Component-Based Architecture
 
-</td>
-<td width="50%" valign="top">
+### ⚙️ Backend & Application Engineering
 
-### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
 
-- Node.js
-- Express.js
+- Node.js & Express.js
 - RESTful API Development
-- JWT Authentication
-- Role-Based Access Control
-- Middleware Architecture
-- API Integration
-- File Upload Management
+- Microservices Architecture
+- API Gateway
+- JWT Authentication & Authorization
+- Role-Based Access Control (RBAC)
+- Middleware & Backend Architecture
+- Third-Party API Integration
+- Application Architecture & Development
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 📨 Messaging & Event-Driven Systems
 
-### 🗄️ Database Management
+<p>
+<img src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
+</p>
 
-- MongoDB
-- MongoDB Atlas
+- RabbitMQ
+- Apache Kafka
+- Message Queues
+- Event-Driven Architecture
+- Asynchronous Communication
+- Inter-Service Communication
+- Distributed Application Workflows
+
+### 🗄️ Database & Data Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB & MongoDB Atlas
 - Mongoose
 - MySQL
 - Database Schema Design
 - Data Modeling
 - Query Optimization
+- Database Integration
 
-</td>
-<td width="50%" valign="top">
+### 🚀 DevOps, Infrastructure & Deployment
 
-### ☁️ DevOps & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,github,git" />
+</p>
 
-- Linux
-- Hostinger VPS
-- Nginx
-- PM2
+- Linux Server Administration
+- VPS Configuration & Management
+- Application Deployment
+- Nginx & Reverse Proxy Configuration
+- PM2 Process Management
+- Domain & DNS Configuration
+- SSL Certificate Management
 - Git & GitHub
-- GitHub Actions
-- SSL Configuration
-- DNS & Domain Management
+- CI/CD Workflows
+- Production Environment Management
 
-</td>
-</tr>
-</table>
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana" />
+</p>
+
+- Grafana
+- Application Monitoring
+- Performance Visualization
+- Infrastructure Monitoring
+- Logs & Metrics Analysis
+
+### 💡 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,python" />
+</p>
+
+- JavaScript
+- Java
+- Python
+- SQL
 
 ---
 
-## 🛠️ Technology Stack
+## 🏗️ Application Development & Architecture
 
-### Languages & Frameworks
+Working across the complete software development lifecycle:
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,python,html,css,react,nodejs,express,tailwind,bootstrap" />
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,linux,nginx" />
-</p>
-
-### Tools & Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 1. Sehat Saathi
-**Healthcare-focused application**
-
-- Healthcare application development.
-- Modern web application architecture.
-- User-friendly interface and application workflows.
-
-🔗 [View Repository](https://github.com/Pankajkumar12345678/Sehat_Saathi)
-
-### 2. Ebuy – E-Commerce Platform
-**Full Stack E-Commerce Application**
-
-- Dynamic product management.
-- Modern shopping experience.
-- Frontend and backend integration.
-
-🔗 [View Repository](https://github.com/Pankajkumar12345678/Ebuy-ecommerce-website)
-
-### 3. LMS Portal
-**Learning Management System**
-
-- Learning management workflows.
-- Structured application architecture.
-- Dynamic frontend and backend integration.
-
-🔗 [View Repository](https://github.com/Pankajkumar12345678/LMS_Portal)
-
-### 4. Vmeet
-**Video Meeting Application**
-
-- Real-time communication application.
-- Modern web development technologies.
-- Interactive user experience.
-
-🔗 [View Repository](https://github.com/Pankajkumar12345678/Vmeet)
-
----
-
-## 🏢 Enterprise Application Development
-
-I also work on business-oriented software solutions, including:
-
-| Application | Key Functionalities |
+| Area | Technical Expertise |
 |---|---|
-| ERP Systems | Multi-module business management |
-| CRM Platforms | Customer and project management |
-| HR Management | Recruitment and employee workflows |
-| Attendance Systems | Daily, monthly and location-based attendance |
-| Project Management | Task tracking and project workflows |
-| Reporting Systems | Excel exports and business reports |
+| Application Development | Full Stack & Enterprise Applications |
+| Architecture | Monolithic & Microservices |
+| API Management | REST APIs & API Gateway |
+| Communication | RabbitMQ & Apache Kafka |
+| Database | MongoDB & MySQL |
+| Deployment | Linux, VPS, Nginx & PM2 |
+| Monitoring | Grafana |
+| Version Control | Git & GitHub |
 
-**Engineering & Business Solutions:** Experience developing workflow-driven systems with department-wise access, project-level permissions, attendance management, recruitment tracking and automated reporting.
+---
+
+## 💼 Enterprise Solutions & Development Experience
+
+Developing business-oriented applications and enterprise management systems with practical workflows and scalable backend architectures.
+
+**ERP & Business Management**
+- Multi-tenant ERP application development
+- Inventory and stock management
+- HR and employee management
+- Payroll and attendance workflows
+- Role-based access management
+
+**CRM & Project Management**
+- Multi-project management systems
+- Department-wise permissions
+- Project-level employee assignments
+- Task and workflow management
+- Business reporting and Excel automation
+
+**HR & Recruitment Management**
+- Recruitment and candidate tracking
+- Project-wise vacancy management
+- Interview and selection workflows
+- Employee deployment management
+
+**Application Infrastructure**
+- Backend API architecture
+- Database integration
+- Server configuration
+- Application deployment
+- Production process management
+
+---
+
+## 🚀 Featured Projects
+
+### Sehat Saathi
+Healthcare-focused web application.
+
+[View Repository](https://github.com/Pankajkumar12345678/Sehat_Saathi)
+
+### Ebuy – E-Commerce Platform
+Full Stack e-commerce application.
+
+[View Repository](https://github.com/Pankajkumar12345678/Ebuy-ecommerce-website)
+
+### LMS Portal
+Learning Management System.
+
+[View Repository](https://github.com/Pankajkumar12345678/LMS_Portal)
+
+### Vmeet
+Video meeting application.
+
+[View Repository](https://github.com/Pankajkumar12345678/Vmeet)
 
 ---
 
@@ -207,16 +237,6 @@ I also work on business-oriented software solutions, including:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pankajkumar12345678&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -227,39 +247,36 @@ I also work on business-oriented software solutions, including:
 
 ---
 
-## 🎯 What I'm Focused On
+## 🏆 GitHub Achievements
 
-- Building scalable MERN Stack applications.
-- Improving backend architecture and API performance.
-- Developing enterprise-level ERP and CRM solutions.
-- Exploring cloud infrastructure and deployment automation.
-- Writing clean, reusable and maintainable code.
-- Learning modern software engineering practices.
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pankajkumar12345678&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, technology enthusiasts, recruiters and businesses working on exciting ideas.
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Pankajkumar12345678">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/pankaj-kumar-909287289/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:pankajkumarjietcs48132@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 💡 "Turning Ideas Into Scalable Digital Solutions."
+**Building Applications. Engineering Systems. Deploying Solutions.**
 
-**Thanks for visiting my profile! Let's build something impactful together.** 🚀
+*Let's connect and build something impactful.*
 
 </div>
